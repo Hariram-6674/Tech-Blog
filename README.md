@@ -34,5 +34,5 @@ To start the development server, run the following command:
    ```bash
    npm run dev 
    ```
-Open http://localhost:3000 with your browser to see the result.
+Vercel Deployment Link: https://tech-blog-six-plum.vercel.app
 
